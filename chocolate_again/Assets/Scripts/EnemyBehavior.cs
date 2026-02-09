@@ -26,11 +26,15 @@ public class EnemyBehavior : MonoBehaviour
             {
                 Destroy(this.gameObject);
 
-                Vector3 spawnPos = transform.position +
-                                   transform.forward * 1f;
-                
-                GameObject newChoco = Instantiate(Choco, spawnPos,
-                                           this.transform.rotation);
+                int chocoSpawn = Random.Range(1, 5);
+                for (int x = 1; x <= chocoSpawn; x++)
+                {
+                    Vector3 spawnPos = transform.position +
+                                       transform.forward * 1f * x;
+
+                    GameObject newChoco = Instantiate(Choco, spawnPos,
+                                               this.transform.rotation);
+                }
 
                 Debug.Log("Enemy down.");
             }
@@ -52,7 +56,7 @@ public class EnemyBehavior : MonoBehaviour
             Locations.Add(child);
         }
     }
-    void OnTriggerEnter(Collider other)
+    void OnTriggerStay(Collider other)
     {
 
         if (other.name == "Player")

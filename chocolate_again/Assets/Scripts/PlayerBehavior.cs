@@ -112,5 +112,18 @@ public class PlayerBehavior : MonoBehaviour
         {
             _gameManager.HP = 0;
         }
+        if(collision.gameObject.name=="LilChicken")
+        {
+            _gameManager.Items = 0;
+        }
+        if (collision.gameObject.name == "OrbOfDisplacement")
+        {
+            _rb.linearVelocity = this.transform.forward *
+                                          50; 
+        }
+        if (collision.gameObject.name == "TheGreatChicken")
+        {
+            _gameManager.Items = 4;
+        }
     }
 }

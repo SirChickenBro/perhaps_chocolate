@@ -29,15 +29,15 @@ public class GameBehavior : MonoBehaviour
         set
         {
             _itemsCollected = value;
-            ItemText.text = "Items: " + Items;
+            ItemText.text = "Chocolate: " + Items;
             if (_itemsCollected >= MaxItems)
             {
                 WinButton.gameObject.SetActive(true);
-                UpdateScene("You've found all the items!");
+                UpdateScene("You got diabetes!");
             }
             else
             {
-                ProgressText.text = "Item found, only " +
+                ProgressText.text = "Chocolate consumed, eat " +
                     (MaxItems - _itemsCollected) + " more!";
             }
             Debug.LogFormat("Items: {0}", _itemsCollected);
