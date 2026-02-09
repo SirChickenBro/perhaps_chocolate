@@ -108,5 +108,9 @@ public class PlayerBehavior : MonoBehaviour
         {
             _gameManager.HP -= 1;
         }
+        if (collision.gameObject.name == "OutMap")
+        {
+            _gameManager.HP = 0;
+        }
     }
 }
