@@ -5,6 +5,13 @@ using UnityEngine.UI;
 
 public class GameBehavior : MonoBehaviour
 {
+    public void UpdateScene(string updatedText)
+    {
+        ProgressText.text = updatedText;
+        Time.timeScale = 0f;
+    }
+
+    public Button LossButton;
     public Button WinButton;
     private int _itemsCollected = 0;
     private int _playerHP = 10;
@@ -14,7 +21,6 @@ public class GameBehavior : MonoBehaviour
     public TMP_Text ItemText;
     public TMP_Text ProgressText;
 
-    // 1
     public int Items
     {
         // 2
@@ -23,15 +29,15 @@ public class GameBehavior : MonoBehaviour
         set
         {
             _itemsCollected = value;
-            ItemText.text = "Chocolate: " + Items;
+            ItemText.text = "Items: " + Items;
             if (_itemsCollected >= MaxItems)
             {
-                ProgressText.text = "You've eaten all the chocolate!";
                 WinButton.gameObject.SetActive(true);
+                UpdateScene("You've found all the items!");
             }
             else
             {
-                ProgressText.text = "Chocolate consumed, only " +
+                ProgressText.text = "Item found, only " +
                     (MaxItems - _itemsCollected) + " more!";
             }
             Debug.LogFormat("Items: {0}", _itemsCollected);
@@ -45,6 +51,16 @@ public class GameBehavior : MonoBehaviour
         {
             _playerHP = value;
             HealthText.text = "Health: " + HP;
+            if (_playerHP <= 0)
+            {
+                LossButton.gameObject.SetActive(true);
+                UpdateScene("You want another life with that?");
+            }
+            else
+            {
+                ProgressText.text = "Ouch... that's gotta hurt.";
+            }
+
             Debug.LogFormat("Lives: {0}", _playerHP);
         }
     }
