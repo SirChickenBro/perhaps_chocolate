@@ -13,6 +13,8 @@ public class EnemyBehavior : MonoBehaviour
     private int _locationIndex = 0;
     private NavMeshAgent _agent;
 
+    public GameObject Choco;
+
     private int _lives = 3;
     public int EnemyLives
     {
@@ -23,6 +25,13 @@ public class EnemyBehavior : MonoBehaviour
             if (_lives <= 0)
             {
                 Destroy(this.gameObject);
+
+                Vector3 spawnPos = transform.position +
+                                   transform.forward * 1f;
+                
+                GameObject newChoco = Instantiate(Choco, spawnPos,
+                                           this.transform.rotation);
+
                 Debug.Log("Enemy down.");
             }
         }

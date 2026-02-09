@@ -13334,6 +13334,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1358792652140591229, guid: 2251fdd59d6cd9945ba7168c7a7c215f, type: 3}
+      propertyPath: Choco
+      value: 
+      objectReference: {fileID: 3027447253893788031, guid: 3215b7dc702d1214c86f36a88aa83528, type: 3}
+    - target: {fileID: 1358792652140591229, guid: 2251fdd59d6cd9945ba7168c7a7c215f, type: 3}
       propertyPath: PatrolRoute
       value: 
       objectReference: {fileID: 1068810295}
