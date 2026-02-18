@@ -45,6 +45,7 @@ public class PlayerBehavior : MonoBehaviour
         this.transform.Rotate(Vector3.up * _hInput *
         Time.deltaTime);
         */
+
     }
     void FixedUpdate()
     {
@@ -84,7 +85,8 @@ public class PlayerBehavior : MonoBehaviour
         }
         // 9
         _isShooting = false;
-
+        if (transform.position.y <= -50)
+            _gameManager.HP = 0;
     }
 
     private bool IsGrounded()
@@ -107,10 +109,6 @@ public class PlayerBehavior : MonoBehaviour
         if (collision.gameObject.name == "Enemy")
         {
             _gameManager.HP -= 1;
-        }
-        if (collision.gameObject.name == "OutMap")
-        {
-            _gameManager.HP = 0;
         }
         if(collision.gameObject.name=="LilChicken")
         {
