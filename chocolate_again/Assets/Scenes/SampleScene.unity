@@ -327,9 +327,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -401,9 +409,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -470,9 +486,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -549,9 +573,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -628,9 +660,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -697,9 +737,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -797,9 +845,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -866,9 +922,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -935,9 +999,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1019,9 +1091,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1098,9 +1178,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1167,9 +1255,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1236,9 +1332,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1305,9 +1409,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1502,9 +1614,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1571,9 +1691,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1655,9 +1783,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1729,9 +1865,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1803,9 +1947,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1872,9 +2024,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1941,9 +2101,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2061,9 +2229,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2130,9 +2306,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2199,9 +2383,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2283,9 +2475,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2638,9 +2838,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2901,9 +3109,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2970,9 +3186,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3039,9 +3263,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3382,9 +3614,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3461,9 +3701,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3530,9 +3778,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3599,9 +3855,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3668,9 +3932,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3979,9 +4251,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4048,9 +4328,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4117,9 +4405,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4186,15 +4482,28 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+--- !u!4 &547702796 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+  m_PrefabInstance: {fileID: 6719653172779417726}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &551382776 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
@@ -4429,9 +4738,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4503,9 +4820,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4592,9 +4917,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4778,9 +5111,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4847,9 +5188,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4916,9 +5265,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5219,9 +5576,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5371,6 +5736,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1433102251}
+  - {fileID: 1886847668}
+  - {fileID: 547702796}
   - {fileID: 379898650}
   - {fileID: 1833191216}
   - {fileID: 1302505199}
@@ -5545,9 +5912,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5614,9 +5989,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5718,9 +6101,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5787,9 +6178,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5861,9 +6260,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6068,9 +6475,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6127,7 +6542,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 826334301}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: fence? (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6304,9 +6719,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6373,9 +6796,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6442,9 +6873,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6511,9 +6950,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6652,9 +7099,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6726,9 +7181,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6800,9 +7263,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6869,9 +7340,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6938,9 +7417,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7012,9 +7499,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7086,9 +7581,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7155,9 +7658,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7224,9 +7735,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7324,9 +7843,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7394,7 +7921,7 @@ GameObject:
   - component: {fileID: 1073468341}
   - component: {fileID: 1073468340}
   - component: {fileID: 1073468339}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7559,9 +8086,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7643,9 +8178,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7712,9 +8255,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7781,9 +8332,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7870,9 +8429,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8123,9 +8690,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8223,9 +8798,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8292,9 +8875,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8381,9 +8972,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8465,9 +9064,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8539,9 +9146,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8608,9 +9223,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8677,9 +9300,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8785,9 +9416,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8864,9 +9503,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8943,9 +9590,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9012,9 +9667,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9081,9 +9744,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9150,9 +9821,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9168,7 +9847,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1368576666}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: disaster
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9254,9 +9933,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9328,9 +10015,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9397,9 +10092,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9428,7 +10131,7 @@ GameObject:
   - component: {fileID: 1429299216}
   - component: {fileID: 1429299215}
   - component: {fileID: 1429299214}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9700,9 +10403,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9774,9 +10485,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9795,7 +10514,7 @@ GameObject:
   - component: {fileID: 1478166452}
   - component: {fileID: 1478166451}
   - component: {fileID: 1478166450}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9960,9 +10679,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10197,9 +10924,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10220,7 +10955,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1616982417}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: fence? (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10332,9 +11067,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10457,9 +11200,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10526,9 +11277,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10605,9 +11364,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10674,9 +11441,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10743,9 +11518,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10843,9 +11626,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11130,7 +11921,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1783378416}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: fence? (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11242,9 +12033,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11311,9 +12110,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11332,7 +12139,7 @@ GameObject:
   - component: {fileID: 1816320625}
   - component: {fileID: 1816320624}
   - component: {fileID: 1816320623}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11533,9 +12340,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11602,9 +12417,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11704,9 +12527,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11778,9 +12609,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11872,9 +12711,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11890,7 +12737,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1886847668}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11905,8 +12752,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1886847667}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.6856303, y: 8.774865, z: -1.2648783}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.5510004, y: 8.774865, z: 2.2589316}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11916,7 +12763,7 @@ Transform:
   - {fileID: 1478166449}
   - {fileID: 1816320622}
   - {fileID: 1368576666}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 703138588}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1895240956
 PrefabInstance:
@@ -11978,9 +12825,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12047,9 +12902,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12116,9 +12979,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12190,9 +13061,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12452,9 +13331,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12689,9 +13576,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12758,9 +13653,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12827,9 +13730,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12896,9 +13807,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12965,9 +13884,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13098,7 +14025,7 @@ GameObject:
   - component: {fileID: 2010201195}
   - component: {fileID: 2010201194}
   - component: {fileID: 2010201193}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13283,9 +14210,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13336,7 +14271,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2060426166}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: fence?
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13479,9 +14414,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13548,9 +14491,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13622,9 +14573,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13691,9 +14650,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13765,9 +14732,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3905148029289900243, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
       propertyPath: m_Name
       value: thingOfWood (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7acdb5e0a0bfb6f4c8775c562c03d9a9, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14225,6 +15200,99 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08df97d5ed0cd954380b22b1a4a6ad56, type: 3}
+--- !u!1001 &6719653172779417726
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 703138588}
+    m_Modifications:
+    - target: {fileID: 29143292816974212, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Name
+      value: tree
+      objectReference: {fileID: 0}
+    - target: {fileID: 29143292816974212, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 49284001104537986, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1075594587487057217, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1252897248507367698, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557492361635344928, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2711770595661516008, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477833475277498047, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808980097390374188, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.15537
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.31318998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5360158938880917221, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9172923869615315048, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 63b95a74599112a49a3aa646e62ec035, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -14232,7 +15300,6 @@ SceneRoots:
   - {fileID: 330585546}
   - {fileID: 410087041}
   - {fileID: 832575519}
-  - {fileID: 1886847668}
   - {fileID: 6633211740069639262}
   - {fileID: 4923356850675469320}
   - {fileID: 677274787}
