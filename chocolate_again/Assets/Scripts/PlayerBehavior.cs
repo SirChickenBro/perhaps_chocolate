@@ -87,7 +87,7 @@ public class PlayerBehavior : MonoBehaviour
         }
         // 9
         _isShooting = false;
-        if (transform.position.y <= -50)
+        if (transform.position.y <= -50 || transform.position.y >= 50 || transform.position.x >= 125 || transform.position.x <= -125 || transform.position.z >= 125 || transform.position.y <= -125)
             _gameManager.HP = 0;
     }
 
