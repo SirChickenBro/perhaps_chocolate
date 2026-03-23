@@ -11,6 +11,7 @@ public class PlayerBehavior : MonoBehaviour
     private float _hInput;
 
     private Rigidbody _rb;
+    private UnityEngine.AI.NavMeshAgent _orb;
 
     public float JumpVelocity = 5f;
     private bool _isJumping;
@@ -31,6 +32,7 @@ public class PlayerBehavior : MonoBehaviour
         _rb = GetComponent<Rigidbody>();
         _col = GetComponent<CapsuleCollider>();
         _gameManager = GameObject.Find("Game Manager").GetComponent<GameBehavior>();
+        _orb = GameObject.Find("OrbOfDisplacement").GetComponent<UnityEngine.AI.NavMeshAgent>();
     }
     void Update()
     {
@@ -116,8 +118,8 @@ public class PlayerBehavior : MonoBehaviour
         }
         if (collision.gameObject.name == "OrbOfDisplacement")
         {
-            _rb.linearVelocity = this.transform.forward *
-                                          50; 
+            _rb.linearVelocity = 50 * _orb.velocity;
+            Debug.Log(_orb.velocity);
         }
         if (collision.gameObject.name == "TheGreatChicken")
         {

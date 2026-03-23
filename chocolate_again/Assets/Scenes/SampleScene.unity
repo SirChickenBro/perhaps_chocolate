@@ -4088,7 +4088,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3636e1756c541204cad73029d46d093c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CamOffset: {x: 0, y: 1.2, z: -2.6}
+  CamOffset: {x: 0, y: 1.5, z: -4}
 --- !u!1001 &331618363
 PrefabInstance:
   m_ObjectHideFlags: 0
