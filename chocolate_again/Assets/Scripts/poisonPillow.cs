@@ -10,10 +10,10 @@ public class poisonPillow : MonoBehaviour
     {
         GameManager = GameObject.Find("Game Manager").GetComponent<GameBehavior>();
     }
-        void OnCollisionEnter(Collision collision)
+        void OnTriggerEnter(Collider other)
     {
         // 2
-        if (collision.gameObject.name == "Player")
+        if (other.name == "Player")
         {
             // 3
             Destroy(this.transform.gameObject);
