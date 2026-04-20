@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 public class PlayerBehavior : MonoBehaviour
 {
+    [SerializeField] AudioClip[] _clips;
     // 1
     public float MoveSpeed = 10f;
     public float RotateSpeed = 75f;
@@ -84,6 +85,9 @@ public class PlayerBehavior : MonoBehaviour
             // 8
             bulletRB.linearVelocity = this.transform.forward *
                                           BulletSpeed;
+            
+            var clip = _clips[0];
+            GetComponent<AudioSource>().PlayOneShot(clip);
         }
         // 9
         _isShooting = false;
@@ -111,6 +115,8 @@ public class PlayerBehavior : MonoBehaviour
         if (collision.gameObject.name == "Enemy")
         {
             _gameManager.HP -= 1;
+            var clip = _clips[3];
+            GetComponent<AudioSource>().PlayOneShot(clip);
         }
         if(collision.gameObject.name=="LilChicken")
         {
@@ -119,6 +125,9 @@ public class PlayerBehavior : MonoBehaviour
         if (collision.gameObject.name == "OrbOfDisplacement")
         {
             _rb.linearVelocity = 50 * _orb.velocity;
+            var clip = _clips[UnityEngine.Random.Range(1, 4)];
+            GetComponent<AudioSource>().PlayOneShot(clip);
+
             Debug.Log(_orb.velocity);
         }
         if (collision.gameObject.name == "TheGreatChicken")

@@ -11,4 +11,12 @@ public class BulletBehavior : MonoBehaviour
         // 2
         Destroy(this.gameObject, OnscreenDelay);
     }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.name == "Enemy" || collision.gameObject.name == "LilChicken")
+        {
+            var audioSource = GetComponent<AudioSource>();
+            audioSource.Play();
+        }
+    }
 }

@@ -11,6 +11,9 @@ public class GameBehavior : MonoBehaviour
         Time.timeScale = 0f;
     }
 
+    public static bool GameIsPaused = false;
+    public GameObject pauseMenuUI;
+
     public Button LossButton;
     public Button WinButton;
     private int _itemsCollected = 0;
@@ -83,6 +86,38 @@ public class GameBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown("p"))
+        {
+            if (GameIsPaused)
+            {
+                Resume();
+            }
+            else
+            {
+                Pause();
+            }
+        }
+    }
+    public void Resume()
+    {
+        pauseMenuUI.SetActive(false);
+        Time.timeScale = 1f;
+        GameIsPaused = false;
+    }
+    void Pause()
+    {
+        pauseMenuUI.SetActive(true);
+        Time.timeScale = 0f;
+        GameIsPaused = true;
+    }
 
+    public void LoadMenu()
+    {
+        SceneManager.LoadScene("Menu");
+    }
+
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }

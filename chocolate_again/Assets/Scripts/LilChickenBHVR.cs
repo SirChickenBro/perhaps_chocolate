@@ -43,6 +43,15 @@ public class LilChickenBHVR : MonoBehaviour
             Locations.Add(child);
         }
     }
+    void OnTriggerEnter(Collider other)
+    {
+
+        if (other.name == "Player")
+        {
+            var audioSource = GetComponent<AudioSource>();
+            audioSource.Play();
+        }
+    }
     void OnTriggerStay(Collider other)
     {
 
