@@ -13,6 +13,9 @@ public class GameBehavior : MonoBehaviour
 
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
+    public GameObject ProgressTX;
+    public GameObject ItemTX;
+    public GameObject HealthTX;
 
     public Button LossButton;
     public Button WinButton;
@@ -101,12 +104,18 @@ public class GameBehavior : MonoBehaviour
     public void Resume()
     {
         pauseMenuUI.SetActive(false);
+        HealthTX.SetActive(true);
+        ProgressTX.SetActive(true);
+        ItemTX.SetActive(true);
         Time.timeScale = 1f;
         GameIsPaused = false;
     }
     void Pause()
     {
         pauseMenuUI.SetActive(true);
+        HealthTX.SetActive(false);
+        ProgressTX.SetActive(false);
+        ItemTX.SetActive(false);
         Time.timeScale = 0f;
         GameIsPaused = true;
     }
