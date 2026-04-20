@@ -65,8 +65,12 @@ public class PlayerBehavior : MonoBehaviour
 
         if (IsGrounded() && _isJumping)
         {
+            var clip = _clips[4];
+            GetComponent<AudioSource>().PlayOneShot(clip);
+
             _rb.AddForce(Vector3.up * JumpVelocity,
                  ForceMode.Impulse);
+
         }
         _isJumping = false;
 
