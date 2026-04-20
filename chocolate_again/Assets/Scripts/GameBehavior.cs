@@ -11,8 +11,10 @@ public class GameBehavior : MonoBehaviour
         Time.timeScale = 0f;
     }
 
+    [SerializeField] AudioClip[] _clips;
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
+    public GameObject Music;
     public GameObject ProgressTX;
     public GameObject ItemTX;
     public GameObject HealthTX;
@@ -38,6 +40,9 @@ public class GameBehavior : MonoBehaviour
             ItemText.text = "Chocolate: " + Items;
             if (_itemsCollected >= MaxItems)
             {
+                Music.SetActive(false);
+                var clip = _clips[1];
+                GetComponent<AudioSource>().PlayOneShot(clip);
                 WinButton.gameObject.SetActive(true);
                 UpdateScene("You got diabetes!");
             }
@@ -59,7 +64,10 @@ public class GameBehavior : MonoBehaviour
             HealthText.text = "Health: " + HP;
             if (_playerHP <= 0)
             {
+                Music.SetActive(false);
                 LossButton.gameObject.SetActive(true);
+                var clip = _clips[0];
+                GetComponent<AudioSource>().PlayOneShot(clip);
                 UpdateScene("You want another life with that?");
             }
             else
@@ -75,6 +83,7 @@ public class GameBehavior : MonoBehaviour
     {
         // 3
         SceneManager.LoadScene(1);
+        Music.SetActive(true);
         // 4
         Time.timeScale = 1f;
     }
